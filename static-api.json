@@ -1,0 +1,12 @@
+[
+    {"nama": "Amerika", "ibukota": "Washington, D.C.", "imageId": "amerika"},
+    {"nama": "Arab", "ibukota": "Riyadh", "imageId": "arab"},
+    {"nama": "Australia", "ibukota": "Canberra", "imageId": "australia"},
+    {"nama": "China", "ibukota": "Beijing", "imageId": "china"},
+    {"nama": "German", "ibukota": "Berlin", "imageId": "german"},
+    {"nama": "Indonesia", "ibukota": "Jakarta", "imageId": "indonesia"},
+    {"nama": "Inggris", "ibukota": "London", "imageId": "inggris"},
+    {"nama": "Jepang", "ibukota": "Tokyo", "imageId": "jepang"},
+    {"nama": "Korea Selatan", "ibukota": "Seoul", "imageId": "korea_selatan"},
+    {"nama": "Rusia", "ibukota": "Moskow", "imageId": "rusia"}
+]
